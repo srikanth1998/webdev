@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search and Display Price</title>
+    <style>
+        #suggestions-container {
+            margin-top: 10px;
+        }
+        .suggestion {
+            cursor: pointer;
+        }
+        .suggestion.selected {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Search and Display Price</h1>
+    <input type="text" id="search-input" placeholder="Search for an item..." disabled>
+    <div id="suggestions-container"></div>
+    <div id="results-container">
+        <div id="item-name-column"></div>
+        <div id="item-price-column"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
