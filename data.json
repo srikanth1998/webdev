@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Banana Flower (Banana Flower)",
+    "price": 6
+  },
+  {
+    "name": "Batthu (Batthu)",
+    "price": 28
+  },
+  {
+    "name": "Bombay Pav (Bombay Pav)",
+    "price": 2
+  },
+  {
+    "name": "Cabbage in Box (Cabbage in Box)",
+    "price": 1
+  },
+  {
+    "name": "Calabasa - Round Gray (Calabasa - Round Gray)",
+    "price": 5
+  },
+  {
+    "name": "Calabasa -Larga Long (Calabasa - Long Grey)",
+    "price": 6
+  },
+  {
+    "name": "Cauliflower 12 Heads (Cauliflower 12 Heads)",
+    "price": 7
+  },
+  {
+    "name": "Chayote (Chayote)",
+    "price": 1
+  },
+  {
+    "name": "Chayote Black (Chayote Black)",
+    "price": 4
+  },
+  {
+    "name": "Chayote Mexican (Chayote Mexican)",
+    "price": 4
+  },
+  {
+    "name": "Chick Peas 15.5 oz. (Chick Peas 15.5 oz.(439 Gms.))",
+    "price": 1
+  },
+  {
+    "name": "Chick Peas 47 Oz. (Chick Peas 47 Oz.)",
+    "price": 1
+  },
+  {
+    "name": "Cilantro Macho (Cilantro Macho)",
+    "price": 12
+  },
+  {
+    "name": "Coconut Dry (Coconut Dry)",
+    "price": 2
+  },
+  {
+    "name": "Coconut Green (Coconut Green)",
+    "price": 14
+  },
+  {
+    "name": "Coconut Milk - Chakoh (Coconut Milk - Chakoh Brand)",
+    "price": 1
+  },
+  {
+    "name": "Culantro (Culantro)",
+    "price": 5
+  },
+  {
+    "name": "Curry Leaves (Curry Leaves 8 lb.)",
+    "price": 5.0925
+  },
+  {
+    "name": "Dahi - 2 Lbs. (Dahi - Yogurt 2 Lbs. Whole Milk X 8 Pcs.)",
+    "price": 123
+  },
+  {
+    "name": "Dahi - 2 Lbs. Low Fat (Dahi Low Fat - Yogurt 2 Lbs. X 8 Pcs.)",
+    "price": 23
+  },
+  {
+    "name": "Dahi - 2 Lbs. Non Fat (Dahi 2 Lbs. Non Fat X 8 Pcs.)",
+    "price": 2
+  },
+  {
+    "name": "Dahi 4 Lb. Regular (Dahi 4 Lbs. Whole Milk Yogurt X 6 Pcs.)",
+    "price": 379
+  },
+  {
+    "name": "Dahi 4Lbs. Low Fat (Dahi 4 Lbs. Low Fat Milk Yogurt X 6 Pcs.)",
+    "price": 18
+  },
+  {
+    "name": "Dhania-Local (Dhania-Local)",
+    "price": 1
+  },
+  {
+    "name": "Dhania-TX- Wood (Dhania-TX- Wood)",
+    "price": 6
+  },
+  {
+    "name": "Dhania - 60 Bunches Paperbox (Dhania - 60 Bunches Paperbox)",
+    "price": 19
+  },
+  {
+    "name": "Dill (Dill 24 Bunches)",
+    "price": 7
+  },
+  {
+    "name": "Dosa mix (Dosa Mix)",
+    "price": 2
+  },
+  {
+    "name": "Edos (Edos - Pidalu)",
+    "price": 6
+  },
+  {
+    "name": "Eggplant  American (Eggplant American)",
+    "price": 3
+  },
+  {
+    "name": "Eggplant African (Eggplant African)",
+    "price": 2
+  },
+  {
+    "name": "Eggplant Chinese (Eggplant Chinese)",
+    "price": 5
+  },
+  {
+    "name": "Eggplant Green - Long (Eggplant Green- Long)",
+    "price": 5
+  },
+  {
+    "name": "Eggplant Indian - Round (Indian Eggplant / Roundia)",
+    "price": 16
+  },
+  {
+    "name": "Eggplant Thai (Eggplant Thai)",
+    "price": 6
+  },
+  {
+    "name": "FROZEN (Frozen Food)",
+    "price": ""
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 17
+  },
+  {
+    "name": "",
+    "price": 3
+  },
+  {
+    "name": "",
+    "price": 4
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 9
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 5
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 4
+  },
+  {
+    "name": "",
+    "price": 9
+  },
+  {
+    "name": "",
+    "price": 3
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 3
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 5
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 8
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 9
+  },
+  {
+    "name": "",
+    "price": 4
+  },
+  {
+    "name": "",
+    "price": 6
+  },
+  {
+    "name": "",
+    "price": 2
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 10
+  },
+  {
+    "name": "",
+    "price": 6
+  },
+  {
+    "name": "Total FROZEN (Frozen Food)",
+    "price": 137
+  },
+  {
+    "name": "FRUITS",
+    "price": ""
+  },
+  {
+    "name": "",
+    "price": 5
+  },
+  {
+    "name": "",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": 4
+  },
+  {
+    "name": "",
+    "price": 6
+  },
+  {
+    "name": "",
+    "price": 7
+  },
+  {
+    "name": "",
+    "price": 5
+  },
+  {
+    "name": "",
+    "price": 5
+  },
+  {
+    "name": "",
+    "price": 76
+  },
+  {
+    "name": "",
+    "price": 5
+  },
+  {
+    "name": "",
+    "price": 4
+  },
+  {
+    "name": "",
+    "price": 320.35
+  },
+  {
+    "name": "",
+    "price": 23
+  },
+  {
+    "name": "Total FRUITS",
+    "price": 461.35
+  },
+  {
+    "name": "Galka - Ghiraoula (Ram Turi / Galka/Ghiraoula/Dhundul)",
+    "price": 2
+  },
+  {
+    "name": "Garlic Loose (Garlic Loose)",
+    "price": 2
+  },
+  {
+    "name": "Garlic Regular (Garlic Regular)",
+    "price": 3
+  },
+  {
+    "name": "Ginger Orgenic (Ginger Orgenic)",
+    "price": 1
+  },
+  {
+    "name": "Ginger Regular (Regular Ginger)",
+    "price": 13
+  },
+  {
+    "name": "Green Jackfruit in Can 24 X 20 (Green Jackfruit in Can 24 X 20 OZ.)",
+    "price": 2
+  },
+  {
+    "name": "Grocery",
+    "price": ""
+  },
+  {
+    "name": "",
+    "price": 3
+  },
+  {
+    "name": "Total Grocery",
+    "price": 3
+  },
+  {
+    "name": "Heirba Mora (Heirba Mora)",
+    "price": 3
+  },
+  {
+    "name": "Honey W/Comb 18/350 Gms. (12.3) (Honey W/Comb 18/350 Gms. (12.3))",
+    "price": 2
+  },
+  {
+    "name": "Jello Jar Charctor 6 Pcs. (Jello Jar Charctor 6 Pcs.)",
+    "price": 1
+  },
+  {
+    "name": "Juicy Chew Challenge in Bag 30/ (Juicy Chew Challenge in Bag 30/10.50 Oz.)",
+    "price": 2
+  },
+  {
+    "name": "Juicy Chew Challenge in Jar 6/4 (Juicy Chew Challenge in Jar 6/46.5 Oz.)",
+    "price": 3
+  },
+  {
+    "name": "Karela - Local Florida (Karela Indian 30 lb.)",
+    "price": 38
+  },
+  {
+    "name": "Kirbi (Kirbi)",
+    "price": 29
+  },
+  {
+    "name": "Lime 150 Pcs. (Lime 150 Pcs.)",
+    "price": 1
+  },
+  {
+    "name": "Long Beans Green 30lbs (Long Beans Green 30 Lbs.)",
+    "price": 9
+  },
+  {
+    "name": "Long Hot Pepper (Long Hot pepper)",
+    "price": 1
+  },
+  {
+    "name": "Long Squash (Long Squash)",
+    "price": 13
+  },
+  {
+    "name": "Long squash ( Bangali) (Long squash ( Bangali))",
+    "price": 2
+  },
+  {
+    "name": "Long Squash ( INDIAN ) (Long Squash ( INDIAN ))",
+    "price": 13
+  },
+  {
+    "name": "Medium Chillie 10 Lb (Medium Chillie 10 Lb)",
+    "price": 10
+  },
+  {
+    "name": "Methi - TX (Methi - TX)",
+    "price": 26
+  },
+  {
+    "name": "Mint (Fresh Mint)",
+    "price": 21
+  },
+  {
+    "name": "Muli-Cali (Muli-Cali)",
+    "price": 12
+  },
+  {
+    "name": "Muli - Texas (Muli - Redish)",
+    "price": 16
+  },
+  {
+    "name": "Muli Saag ( Yul Moo) (Muli Saag)",
+    "price": 6
+  },
+  {
+    "name": "Muli W/O Leafs (Daikon - Muli W/O Leafs)",
+    "price": 5
+  },
+  {
+    "name": "Mustard Green Baby (Mustard Green Baby 30 Lb.)",
+    "price": 2
+  },
+  {
+    "name": "Naan - Paratha (Naan - Paratha)",
+    "price": 1
+  },
+  {
+    "name": "Noga Dahi 4 Lbs. (Noga Dahi 4Lbs. X 8 Pcs.)",
+    "price": 22
+  },
+  {
+    "name": "Okra Indian (Okra Indian)",
+    "price": 60
+  },
+  {
+    "name": "Okra Reg (Fresh Okra)",
+    "price": 16
+  },
+  {
+    "name": "Onion - Pearl (Pearl Onion)",
+    "price": 6
+  },
+  {
+    "name": "Onion - Spanish (Onion - Spanish)",
+    "price": 19
+  },
+  {
+    "name": "Onion Red 10 lbs. Reg. (Red Onion 10 Lbs.)",
+    "price": 223
+  },
+  {
+    "name": "Onion Red 10 lbs. Small (Onion Red 10 lbs. Small # 1)",
+    "price": 63
+  },
+  {
+    "name": "Onion Red 2lb / 20 bags (Onion Red 2lb / 20 Bags)",
+    "price": 12
+  },
+  {
+    "name": "Onion Yellow - Canadian 10 Lbs. (Onion Yellow - Canadian 10 Lbs.)",
+    "price": 55
+  },
+  {
+    "name": "Onion Yellow 10 lb. (Yellow Onion 10lb)",
+    "price": 75
+  },
+  {
+    "name": "Onion Yellow 2lb / 20 bags (Onion Yellow 2lb/ 20 bags)",
+    "price": 2
+  },
+  {
+    "name": "Paha (Paha)",
+    "price": 2
+  },
+  {
+    "name": "Pan Leaves (Pan Leaves)",
+    "price": 19.5
+  },
+  {
+    "name": "Paneer 32 Pcs. X 12Oz. - Nanak (Paneer 32 Pcs. X 12Oz. - Nanak)",
+    "price": 4
+  },
+  {
+    "name": "Paneer Khoe/Mawa (Paneer Khoe/Mawa - Nanak)",
+    "price": 1
+  },
+  {
+    "name": "Papaya (Green Papaya)",
+    "price": 17
+  },
+  {
+    "name": "Pocas Bubble Teas (Pocas Bubble Teas 16.5 oz. X 24)",
+    "price": 0
+  },
+  {
+    "name": "Pocas Ginger Chew Candy (Pocas Ginger Chew Candy)",
+    "price": 1
+  },
+  {
+    "name": "Poi Saag (Poi Saag)",
+    "price": 8
+  },
+  {
+    "name": "Potato Idaho (Idaho Potato)",
+    "price": 8
+  },
+  {
+    "name": "Potato Red 'A' (Potato Red 'A')",
+    "price": 13
+  },
+  {
+    "name": "Potato Red 'B' (Potato Red 'B')",
+    "price": 2
+  },
+  {
+    "name": "Potato White 'A' (Potato White 'A')",
+    "price": 18
+  },
+  {
+    "name": "Puri- CRISPY (Puri)",
+    "price": 1
+  },
+  {
+    "name": "Roti Crispy - Regular (Roti Crispy - Regular)",
+    "price": 1
+  },
+  {
+    "name": "Roti Crispy - Whole Wheat (Roti Crispy - Whole Wheat)",
+    "price": 3
+  },
+  {
+    "name": "Round Long Squash (Round Long Squash)",
+    "price": 5
+  },
+  {
+    "name": "Rulo Banana (Rulo Banana)",
+    "price": 4
+  },
+  {
+    "name": "Rumali Roti (Rumali Roti)",
+    "price": 1
+  },
+  {
+    "name": "Sarso Ka Saag (Sarso Ka Saag)",
+    "price": 7
+  },
+  {
+    "name": "Shopping Bag 1/6 (Shopping Bag 1/6)",
+    "price": 1
+  },
+  {
+    "name": "Small Chilli (Small Chilli)",
+    "price": 33.3
+  },
+  {
+    "name": "Snacks",
+    "price": ""
+  },
+  {
+    "name": "",
+    "price": 11
+  },
+  {
+    "name": "",
+    "price": 7
+  },
+  {
+    "name": "",
+    "price": 4
+  },
+  {
+    "name": "Snake Gourd 30Lbs. (Snake Gourd 30Lbs.)",
+    "price": 5
+  },
+  {
+    "name": "Spinach (Fresh Spinach)",
+    "price": 10
+  },
+  {
+    "name": "Sweet (Sweet)",
+    "price": 181
+  },
+  {
+    "name": "Sweet Potato (Sweet Potato - Sakkaria)",
+    "price": 1
+  },
+  {
+    "name": "Sweet Tamarind Box 454 Gms. X 1 (Sweet Tamarind Box 454 Gms. X 16)",
+    "price": 1
+  },
+  {
+    "name": "Tree Tomatoes (Tree Tomatoes)",
+    "price": 5
+  },
+  {
+    "name": "Turnip (Turnip)",
+    "price": 3
+  },
+  {
+    "name": "Valor - Long Florida (Valor - Long Florida)",
+    "price": 12
+  },
+  {
+    "name": "Valor - Round Dominican (Valor - Round Dominican)",
+    "price": 1
+  },
+  {
+    "name": "Valor Beans 20Lbs. (Valor Beans 20Lbs.)",
+    "price": 6
+  },
+  {
+    "name": "Vegetable Roll - Big roll Plast (Vegetable Roll - Big roll Plastis Bags)",
+    "price": 1
+  },
+  {
+    "name": "Win Beans (Win Beans 15 lbs.)",
+    "price": 2
+  },
+  {
+    "name": "Winter Melon (Winter Melon /Lb.)",
+    "price": 1
+  },
+  {
+    "name": "Yam Brazil - Cuscus (Yam Brazil - Cuscus)",
+    "price": 1
+  },
+  {
+    "name": "Yucca (Yucca Fresh)",
+    "price": 1
+  },
+  {
+    "name": "",
+    "price": "2,576.24"
+  },
+  {
+    "name": "",
+    "price": "2,576.24"
+  }
+]
